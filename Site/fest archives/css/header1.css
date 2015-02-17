@@ -1,0 +1,375 @@
+@font-face {
+    font-family: 'League Gothic';
+    src: url('../fonts/leaguegothic-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Building';
+    src: url('../fonts/Building_Typeface.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+				margin:0px;
+				padding:0px;
+				
+			}
+#wrapper {
+    margin-left:auto;
+    margin-right:auto;
+    min-width:960px;
+}
+	#event
+			{  overflow-x: hidden;
+                font-family: 'Building', serif;
+				 position:relative;
+				float:left;
+				top:120px;
+				font-size: 200%;
+				text-align: center;
+	color:#F59B00;
+			width:100%;
+			height:100px;
+			text-shadow: 2px 2px 2px #000;
+			}
+			.ab{
+				font-size:140%;
+				font-style:normal;
+			}
+			.up{color:#F59B00;
+				font-size:60px;
+				width: 100%;
+				height:30px;
+			}
+		.lo{ font-style:normal;
+		   font-family: 'Building', serif;
+		    
+			color: #FFA200;
+			font-size: 50px;
+		}
+  #desc{  -moz-box-shadow:    10px 20px 10px 10px #000;
+                         -webkit-box-shadow: 10px 20px 10px 10px #000;
+                            box-shadow:         10px 20px 10px 10px #000;
+		    	position:relative;
+		    	font-style:italic;
+		    	font-size: 100%;
+				color: white;
+		        width:80%;
+	            height:970px;
+	            float: left;
+	            left:100px;
+	            border-radius: 15px;
+		         border-color: black;
+		         padding-left: 50px;
+		         padding-top:30px;
+		         padding-right: 50px;
+		         top:30px;
+		         bottom:20px;
+		        background: rgba(0,0,0,0.5);
+		        overflow: hidden;
+			}
+		#container{ position:absolute; 
+			top: 100px;
+    height: 1200px;
+    width: 100%;
+    margin-top: 90px;
+    overflow-y: hidden;
+    
+  }
+    float: left;
+		}
+		#rules{ position:relative;
+			top:30px;
+		}
+		
+/*header*/
+
+html,body{
+    width: 100%;
+    height: auto;
+    overflow-x: hidden;
+    padding: 0px;
+    margin: 0px;
+    z-index: 1;
+}
+/*header*/
+header{
+    background-color: #292929;
+    width:100%;
+    height: 80px;
+    padding:5px 0px 5px 0px;
+    top: 0px;
+    left: 0px;
+    position: fixed;
+    z-index: 500;
+    float: left;
+}
+
+header #logo img{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    float: left;
+    margin-left: 50px;
+    margin-top: 5px;
+    position: relative;
+    z-index: 999;
+}
+header #logo img:hover{
+    box-shadow: 0px 0px 8px 4px #BDBDBD;
+}
+.buttons {
+    padding: 0px;
+    margin: 0px;
+    float: left;
+    margin-left: 30%;
+}
+.buttons li{
+    display: inline-block;
+    float: left;
+    width:120px;
+    height: 80px;
+    margin-left: 10px;
+    text-align: center;
+}
+.buttons li:hover{
+    background-color:#493C3C;
+}
+.buttons li.active {
+    background-color: #503535;
+}
+.buttons li a{
+    display: block;
+    width: inherit;
+    height: 40px;
+    padding: 30px 0px 10px 0px;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: 'League Gothic', serif;
+}
+.buttons .short-name{
+    width: 80px;
+    text-align: center;
+}
+.buttons #word-timeline{
+    width: 100px;
+    text-align: center;
+    
+}
+@media (max-width:700px){
+    .buttons{
+        margin-left: 30px;
+    }
+    header #logo img{
+        width: 110px;
+        height: 110px;
+        margin-left: 25px;
+        margin-top: 20px;
+    }
+    .buttons li{
+        width:60px;
+    }
+    .buttons li a{
+        font-size: 18px;
+    }
+    .buttons .short-name{
+        width: 50px;
+    }
+    .buttons #word-timeline{
+        width: 60px;
+    }
+}
+
+@media (min-width:701px) and (max-width:1050px){
+    .buttons{
+        margin-left: 40px;
+    }
+    header #logo img{
+        margin-left: 30px;
+    }
+    .buttons li{
+        width:80px;
+    }
+    .buttons li a{
+        font-size: 22px;
+    }
+    .buttons .short-name{
+        width: 60px;
+    }
+    .buttons #word-timeline{
+        width: 80px;
+    }
+}
+@media (min-width:1050px) and (max-width:1240px){
+    .buttons{
+        margin-left: 100px;
+    }
+}	
+		
+		
+		
+		
+		
+		
+		
+			/*Footer*/  
+footer{top:110px;
+	position:relative;
+    clear: both;
+    float: left;
+    width: 100%;
+    height: 100px;
+    background-color: #141414;
+    display: inline;
+}
+footer .content{
+    display: inline-block;
+    width: 50%;
+    color: #E0E0E0;
+    padding-left:20%;
+    font-size: 20px;
+    margin-right: 4%;
+    margin-top:10px;
+}
+footer .social-links{
+    width: 14%;
+    display: inline-block;
+    margin-top: 10px;
+}
+footer .margin-right{
+    margin-right: 0%;
+}
+footer .social-popout {
+    border-radius: 100%;
+	height: 22%;
+	width: 22%;
+	margin: 10px;
+	float: left;
+	-webkit-transition: all ease 0.5s;
+	-moz-transition: all ease 0.5s;
+	-o-transition: all ease 0.5s;
+	-ms-transition: all ease 0.5s;
+	transition: all ease 0.5s;
+}
+footer .social-popout img {
+	border-radius: 50%;
+	margin: 8px;
+	width: 100%;
+	box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+	-webkit-transition: all ease 0.5s;
+	-moz-transition: all ease 0.5s;
+	-o-transition: all ease 0.5s;
+	-ms-transition: all ease 0.5s;
+	transition: all ease 0.5s;
+}
+footer .social-popout img:hover {
+	margin: 0px;
+	box-shadow: 6px 6px 4px 4px rgba(0,0,0,0.3);
+}
+footer #team-name{
+    text-decoration:underline;
+    color: #FFAD1F;
+}
+footer h5 a{
+    text-decoration: none;
+    color: #B88B3D;
+}
+@media (max-width:1250px){
+       footer .content{
+        width: 400px;
+        padding-left: 10%;
+        font-size: 20px;
+        position: relative;
+        top:-20px;
+        margin-right: 200px;
+    }
+    footer .content h5{
+        margin-bottom: 0px;
+    }
+    footer .social-links{
+        width: 250px;
+        padding-top: 20px;
+    }
+    footer .social-popout{
+        width: 40px;
+        height: 40px;
+        margin: 6px;
+    }
+    footer .social-popout img{
+        margin: 5px;
+    } 
+}
+@media (max-width:1024px){
+    footer .content{
+        width: 400px;
+        padding-left: 10%;
+        font-size: 20px;
+        position: relative;
+        top:-20px;
+        margin-right: 100px;
+    }
+    footer .content h5{
+        margin-bottom: 0px;
+    }
+    footer .social-links{
+        width: 250px;
+        padding-top: 20px;
+    }
+    footer .social-popout{
+        width: 40px;
+        height: 40px;
+        margin: 6px;
+    }
+    footer .social-popout img{
+        margin: 5px;
+    }
+}
+@media (max-width:900px){
+        footer .content{
+        width: 350px;
+        padding-left: 10%;
+        font-size: 17px;
+        position: relative;
+        margin-right: 30px;
+        top:-15px;
+    }
+    footer .social-links{
+        padding-top: 20px;
+        width: 200px;
+    }
+    footer .social-popout{
+        height: 30px;
+        width: 30px;
+        margin: 4px;
+    }
+    footer .social-popout img{
+        margin: 3px;
+    }
+}
+@media (max-width:700px){
+        footer .content{
+        width: 320px;
+        padding-left: 10%;
+        font-size: 16px;
+        position: relative;
+        margin-right: 30px;
+        top:-15px;
+    }
+    footer .social-links{
+        padding-top: 20px;
+        width: 200px;
+    }
+    footer .social-popout{
+        height: 30px;
+        width: 30px;
+        margin: 4px;
+    }
+    footer .social-popout img{
+        margin: 3px;
+    }
+}
+

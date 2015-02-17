@@ -1,0 +1,171 @@
+.description-header{
+    margin-top:20px;
+}
+.description-subheader{
+    font-family: 'Roboto',sans-serif;
+    font-size:35px;
+    color: #E0E0E0;
+    margin: 0px;
+    text-align: center;
+}
+.developers{
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+}
+.developers p{
+    width: 100%;
+    height: auto;
+    font-family: 'Droid Serif', serif;
+    font-size: 30px;
+    text-align: center;
+    color:#D6D6D6;
+}
+.developers p a{
+    text-decoration: none;
+    color: #F5F5F5;
+    margin-top: 15px;
+}
+
+.developer{
+    width:95%;
+    padding-left:5%;
+    padding-right: 5%;
+    margin-bottom: 30px;/*to change*/
+    height:180px;/* to change*/
+}
+
+.developer img{
+    float: left;
+    display: inline-block;
+    width:170px;
+    height:170px;
+    border-radius: 100%;
+    margin-top:5px;
+    z-index: 200;
+    position: relative;
+}
+.developer .developer-description{
+    position: relative;
+    float: left;
+    display: inline-block;
+    width:76%;
+    height: 140px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #E0E0E0;
+    border-top-right-radius:20px;
+    border-bottom-right-radius:20px;
+    left:-50px;
+    z-index: 1;
+    padding-top:10px;
+    padding-right: 4%;
+    padding-left:60px;
+}
+.developer-description p{
+    font-size: 10px;
+    color:#1F1F1F;
+    margin: 0px;
+}
+.developer-description .name{
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive,sans-serif;
+    font-weight: bold;
+    color: #333333;
+}
+.developer-description .designation{
+    text-align: left;
+    font-size: 23px;
+    font-family: fantasy;
+    color: #391818;
+}
+.developer-description .student{
+    text-align: left;
+    font-size: 18px;
+    font-family: fantasy;
+    color: #292929;
+}
+.developer-description .bio{
+    text-align: justify;
+    font-size: 15px;
+    font-family:cursive;
+    color: #000;
+    font-weight: bold;
+}
+@media (max-width:750px){
+    .developer img{
+        width: 150px;
+        height: 150px;
+    }
+    .developer .developer-description{
+        width: 350px;
+        left: -40px;
+        padding-left: 45px;
+        height: 120px;
+    }
+    .developer-description .name{
+        font-size: 25px;
+        text-align: center;
+    }
+    .developer-description .designation{
+        font-size: 20px;
+    }
+    .developer-description .student{
+        font-size: 15px;
+    }
+    .developer-description .bio{
+        font-size: 12px;
+    }
+    
+  }
+@media (min-width:750px) and (max-width:1100px){
+    .developer img{
+        width: 160px;
+        height: 160px;
+    }
+    .developer .developer-description{
+        width: 450px;
+        left: -40px;
+        padding-left: 45px;
+        height: 130px;
+    }
+    .developer-description .name{
+        font-size: 26px;
+        text-align: center;
+    }
+    .developer-description .designation{
+        font-size: 21px;
+    }
+    .developer-description .student{
+        font-size: 16px;
+    }
+    .developer-description .bio{
+        font-size: 13px;
+    }
+}
+@media (min-width:1100px) and (max-width:1250px){
+    .developer img{
+        width: 165px;
+        height: 165px;
+    }
+    .developer .developer-description{
+        width: 700px;
+        left: -45px;
+        padding-left: 50px;
+        height: 130px;
+    }
+    .developer-description .name{
+        font-size: 27px;
+        text-align: center;
+    }
+    .developer-description .designation{
+        font-size: 22px;
+    }
+    .developer-description .student{
+        font-size: 17px;
+    }
+    .developer-description .bio{
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.contactus{
+    width: 100%;
+    height: auto;
+    float: left;
+    display: inline-block;
+}
+.contact{
+    float: left;
+    display: inline-block;
+    width:40%;
+    margin-left:5%;
+    margin-right:5%;
+    height: 557px;
+    margin-bottom: 70px;
+    margin-top: 40px;
+}
+.black-box-contact{
+    background-color:rgba(82,82,82,0.86) ;
+    padding-top: 10px;
+    border-radius: 40px;
+}
+.contact .header{
+    font-family: 'Roboto Slab', serif;
+    font-size:50px;
+    color: #FF7070;
+    text-align: center;
+    margin-top: 30px;
+}
+.contact #person{
+    font-family: 'Roboto',sans-serif;
+    color:#CCAA00;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 60px;
+    font-weight: 500;
+}
+.contact .address,.phone{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: #FFF5C2;
+    text-align: center;
+    margin-top: 20px;
+}
+.contact .phone #number{
+    color: #fffb00;
+}
+.contact #googleMap{
+    width: 100%;
+    height:435px;
+    margin-top: 30px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
