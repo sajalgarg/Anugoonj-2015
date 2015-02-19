@@ -373,7 +373,7 @@ So come to hear groups from different colleges and to see the best western group
 						    </div><!-- /.modal-dialog -->
 						  </div><!-- /.modal -->
 				<!-- PORTFOLIO IMAGE 6 -->
-		<!--		<div class="col-md-6 col-sm-6 col-xs-6">
+				<div class="col-md-6 col-sm-6 col-xs-6">
 			    	<div class="grid mask">
 						<figure>
 							<img class="img-responsive" src="assets/img/portfolio/sd.jpg" alt="">
@@ -381,13 +381,13 @@ So come to hear groups from different colleges and to see the best western group
 								<h5>Street dance</h5>
 								<a data-toggle="modal" href="#myModal5" class="btn btn-primary ">Rules</a>
 							</figcaption><!-- /figcaption -->
-<!--						</figure><!-- /figure -->
-<!--			    	</div><!-- /grid-mask -->
-<!--				</div><!-- /col -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
 				<!-- MODAL SHOW THE PORTFOLIO IMAGE. In this demo, all links point to this modal. You should create
 						      a modal for each of your projects. -->
 						      
-	<!--					  <div class="modal fade" id="myModal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+						  <div class="modal fade" id="myModal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 						    <div class="modal-dialog">
 						      <div class="modal-content">
 						        <div class="modal-header">
@@ -396,7 +396,7 @@ So come to hear groups from different colleges and to see the best western group
 						        </div>
 						        <div class="modal-body">
 						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
-	<!--			<p>				 Another modern day dance form which would consist of thrilling stunts.
+				<p>				 Another modern day dance form which would consist of thrilling stunts.
 
 A dance form known particulary for its exhillirating stunts and madness.
 
@@ -414,13 +414,13 @@ Get together now to showoff your skills for one of the most awaited event of ANU
 						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 						        </div>
 						      </div><!-- /.modal-content -->
-<!--						    </div><!-- /.modal-dialog -->
-<!--						  </div><!-- /.modal -->
-<!--			</div><!-- /row -->
-<!--			<br>
+						    </div><!-- /.modal-dialog -->
+						  </div><!-- /.modal -->
+			</div><!-- /row -->
+			<br>
 			<br>
 		<!-- /row -->
-<!--	</div><!-- /container -->
+	</div><!-- /container -->
 		<!-- Clients section start -->
 
 	<!--	<section id="clients" class="callout-dark">

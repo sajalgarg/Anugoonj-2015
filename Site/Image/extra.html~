@@ -65,25 +65,20 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#portfolio">Anugoonj 2015</a>
+					<a class="navbar-brand" href="#">Elegant</a>
 				</div>
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse" id="custom-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right">
-						<!--
-						<li><a href="#portfolio">Events</a></li>
-						
-						<li><a href="#">Home</a></li>
+						<li><a href="#intro">Home</a></li>
+						<li><a href="#services">Services</a></li>
 						<li><a href="#about-header">About</a></li>
 						<li><a href="#portfolio-header">Portfolio</a></li>
 						<li><a href="#team-header">Team</a></li>
-						<li><a href="components.html">Components</a></li>
 						<li><a href="#contact-header">Contact</a></li>
-						-->
+						<li><a href="components.html">Components</a></li>
 					</ul>
-					<h1>
-					</h1>
 				</div>
 
 			</div>
@@ -97,25 +92,22 @@
 		<br>
 			<div class="row">
 				<br>
-				<br>
-				<br>
-				<h1 class="centered">LITERARY EVENTS</h1>
+				<h1 class="centered">WE CREATE COOL STUFF</h1>
 				<hr>
 				<br>
 				<br>
 			</div><!-- /row -->
-			</div>
 			<div class="container">
 			<div class="row">	
 			
 				<!-- PORTFOLIO IMAGE 1 -->
-				<div class="col-md-6 col-sm-6 col-xs-6">
+				<div class="col-md-4 ">
 			    	<div class="grid mask">
 						<figure>
-							<img class="img-responsive" src="assets/img/portfolio/fkd.jpg" alt="">
+							<img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt="">
 							<figcaption>
-								<h5>QUIZ</h5>
-								<a data-toggle="modal" href="#myModal" class="btn btn-primary ">Rules</a>
+								<h5>DASHBOARD</h5>
+								<a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
 			    	</div><!-- /grid-mask -->
@@ -126,30 +118,16 @@
 						      a modal for each of your projects. -->
 						      
 						  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-						    <div class="modal-dialog" style="background-image:url(m1.jpg)">
+						    <div class="modal-dialog">
 						      <div class="modal-content">
 						        <div class="modal-header">
 						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						          <h4 class="modal-title">QUIZ</h4>
+						          <h4 class="modal-title">Project Title</h4>
 						        </div>
 						        <div class="modal-body">
-						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
-								  <p>We are inviting all the passionate quizzers to test their up-to-date knowledge and answer some mind boggling questions.
-
-Questions from different sectors of our day to day lives would be asked to test the awareness of the students.
-
-A quiz is a form of game or mind sport in which the player( as individual or in teams) attempts to answer questions correctly and qiuckly.
-
-So put on your thinking caps and be a part of this challenge.</p>
-								  <h2>Rules</h2>
-						     <p>     1.3 member per team.
-</p><p>
-2. 2 teams will be selected per zone.
-</p><p>
-3. Teams will be finalized on the basis of a written elimination test.
-</p><p>
-4. The Finals will have Audio besides the regular Oral rounds.</p>
-						          <!--<p><b><a href="#">Visit Site</a></b></p>-->
+						          <p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>
+						          <p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>
+						          <p><b><a href="#">Visit Site</a></b></p>
 						        </div>
 						        <div class="modal-footer">
 						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -160,207 +138,79 @@ So put on your thinking caps and be a part of this challenge.</p>
 				
 				
 				<!-- PORTFOLIO IMAGE 2 -->
-				<div class="col-md-6 col-sm-6 col-xs-6">
+				<div class="col-md-4">
 			    	<div class="grid mask">
 						<figure>
-							<img class="img-responsive" src="assets/img/portfolio/cg.jpg" alt="">
+							<img class="img-responsive" src="assets/img/portfolio/folio02.jpg" alt="">
 							<figcaption>
-								<h5>DEBATE</h5>
-								<a data-toggle="modal" href="#myModal1" class="btn btn-primary">Rules</a>
+								<h5>UI DESIGN</h5>
+								<a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
 			    	</div><!-- /grid-mask -->
 				</div><!-- /col -->
-				</div>
-				 <!-- MODAL SHOW THE PORTFOLIO IMAGE. In this demo, all links point to this modal. You should create
-						      a modal for each of your projects. -->
-						      
-						  <div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-						    <div class="modal-dialog">
-						      <div class="modal-content">
-						        <div class="modal-header">
-						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						          <h4 class="modal-title">DEBATE</h4>
-						        </div>
-						        <div class="modal-body">
-						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
-								  <p>It is an apt platform for the participants to pit their wits against each other.
-
-The podium is thy battleground of arguments.
-
-This would be a stage for an excellent war of words over a specific topic.
-
-So do not miss the most competitively fought literary event.</p>
-<h2>RULES</h2>
-
-<p>1.Two member team; one for the motion and one against.
-</p><p>
-2.Topic for debate will be uploaded later.
-</p><p>
-3.2 teams will be selected per zone.
-</p><p>
-4.Maximum time limit : 3 + 1 minutes 
-</p>
-<p>7.The theme should have an original expression through music and movement
-	</p>						          <!--<p><b><a href="#">Visit Site</a></b></p>-->
-						        </div>
-						        <div class="modal-footer">
-						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-						        </div>
-						      </div><!-- /.modal-content -->
-						    </div><!-- /.modal-dialog -->
-						  </div><!-- /.modal -->
 				
-				
-				
-				<div class="row">
 				<!-- PORTFOLIO IMAGE 3 -->
-				<div class="col-md-6 col-sm-6 col-xs-6">
+				<div class="col-md-4">
 			    	<div class="grid mask">
 						<figure>
-							<img class="img-responsive" src="assets/img/portfolio/cd.jpg" alt="">
+							<img class="img-responsive" src="assets/img/portfolio/folio03.jpg" alt="">
 							<figcaption>
-								<h5>JUST A MINUTE</h5>
-								<a data-toggle="modal" href="#myModal2" class="btn btn-primary ">Rules</a>
+								<h5>ANDROID PAGE</h5>
+								<a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
 			    	</div><!-- /grid-mask -->
 				</div><!-- /col -->
-				 <!-- MODAL SHOW THE PORTFOLIO IMAGE. In this demo, all links point to this modal. You should create
-						      a modal for each of your projects. -->
-						      
-						  <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-						    <div class="modal-dialog">
-						      <div class="modal-content">
-						        <div class="modal-header">
-						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						          <h4 class="modal-title">JUST A MINUTE</h4>
-						        </div>
-						        <div class="modal-body">
-						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
-								  <p>The objective of this exciting game is for the panellists to talk for sixty seconds on agiven subject without hesitation and repitition.
-
-This event tests the presence of mind of the participants and to think quickly over a given subject.
-
-So do join us for this small but exciting event at ANUGOONJ'15.
-RULES</p>
-<h2>RULES</h2>
-
-
-<p>1.Individual participation.</p><p>
-
-2. participants will be selected per zone.</p><p>
-
-3.Topic will the given on the spot.				          <!--<p><b><a href="#">Visit Site</a></b></p>-->
-	</p>					        </div>
-						        <div class="modal-footer">
-						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-						        </div>
-						      </div><!-- /.modal-content -->
-						    </div><!-- /.modal-dialog -->
-						  </div><!-- /.modal -->
-				
+			</div><!-- /row -->
 
 				<!-- PORTFOLIO IMAGE 4 -->
-				
-				<div class="col-md-6 col-sm-6 col-xs-6">
+			<div class="row">	
+				<div class="col-md-4 ">
 			    	<div class="grid mask">
 						<figure>
-							<img class="img-responsive" src="assets/img/portfolio/nb.jpg" alt="">
+							<img class="img-responsive" src="assets/img/portfolio/folio04.jpg" alt="">
 							<figcaption>
-								<h5>CREATIVE WRITING</h5>
-								<a data-toggle="modal" href="#myModal3" class="btn btn-primary ">Rules</a>
+								<h5>PROFILE</h5>
+								<a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
 			    	</div><!-- /grid-mask -->
 				</div><!-- /col -->
-			</div>	
-			
-			<!-- MODAL SHOW THE PORTFOLIO IMAGE. In this demo, all links point to this modal. You should create
-						      a modal for each of your projects. -->
-						      
-						  <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-						    <div class="modal-dialog">
-						      <div class="modal-content">
-						        <div class="modal-header">
-						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						          <h4 class="modal-title">CREATIVE WRITING	</h4>
-						        </div>
-						        <div class="modal-body">
-						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
-							<p>	 Let the ink put the mark on the paper.
-
-This event would best test the quality of young authors of IPU and their vocabulary writing and imagination skills.
-
-This event is all about how well you transpire your ideas.
-
-Feel the essence of imagination in the world of literature and the creativity of the students.</p>
-<h2>RULES</h2>
-
-<p>11.Topic will be given on the spot</p><p>
-
-2.Time limit : 1 hour</p><p>
-
-3.Individual participation.	</p>	        </div>
-						        <div class="modal-footer">
-						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-						        </div>
-						      </div><!-- /.modal-content -->
-						    </div><!-- /.modal-dialog -->
-						  </div><!-- /.modal -->
+				
 				<!-- PORTFOLIO IMAGE 5 -->
-				<div class="row">
-				<div class="col-md-6 col-sm-6 col-xs-6">
+				<div class="col-md-4">
 			    	<div class="grid mask">
 						<figure>
-							<img class="img-responsive" src="assets/img/portfolio/fl.jpg" alt="">
+							<img class="img-responsive" src="assets/img/portfolio/folio05.jpg" alt="">
 							<figcaption>
-								<h5>POETRY RECITATION</h5>
-								<a data-toggle="modal" href="#myModal4" class="btn btn-primary ">Rules</a>
+								<h5>TWITTER STATUS</h5>
+								<a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
 			    	</div><!-- /grid-mask -->
 				</div><!-- /col -->
 				
-				
-				<!-- MODAL SHOW THE PORTFOLIO IMAGE. In this demo, all links point to this modal. You should create
-						      a modal for each of your projects. -->
-						      
-						  <div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-						    <div class="modal-dialog">
-						      <div class="modal-content">
-						        <div class="modal-header">
-						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						          <h4 class="modal-title">POETRY RECITATION</h4>
-						        </div>
-						        <div class="modal-body">
-						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
-				<p>				  Sweetest is the victory of a fine language.
-
-It encourages the battle of words between opponents while binding them together with their poetic love.
-
-You will be astonished by the variation in the pitch and loudness as the poets match the mood of the poem they recite.
-
-So time to entrall the audience with the talent heart of a poet!!<p>
-<h2>RULES</h2>
-
-<p>1.Individual participation.</p><p>
-
-2. 2 participants will be selected per zone.</p><p>
-
-3.Time Limit : 4+1 minutes.</p><p>
-
-4.Original works will be favoured.</p>			        </div>
-						        <div class="modal-footer">
-						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-						        </div>
-						      </div><!-- /.modal-content -->
-						    </div><!-- /.modal-dialog -->
-						  </div><!-- /.modal -->
-				
+				<!-- PORTFOLIO IMAGE 6 -->
+				<div class="col-md-4">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/folio06.jpg" alt="">
+							<figcaption>
+								<h5>PHONE MOCKUP</h5>
+								<a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+			</div><!-- /row -->
+			<br>
+			<br>
+		</div><!-- /row -->
+	</div><!-- /container -->
 		<!-- Clients section start -->
 
-	<!--	<section id="clients" class="callout-dark">
+		<section id="clients" class="callout-dark">
 
 			<div class="container">
 
@@ -398,17 +248,17 @@ So time to entrall the audience with the talent heart of a poet!!<p>
 
 					</div><!-- .col -->
 
-<!--				</div><!-- .row -->
+				</div><!-- .row -->
 
-<!--			</div><!-- .container -->
+			</div><!-- .container -->
 
-<!--		</section>
+		</section>
 
 		<!-- Clients section end -->
 
 		<!-- Contact section start -->
 
-<!--		<section id="contact-header" class="section-header">
+		<section id="contact-header" class="section-header">
 
 			<div class="color-overlay">
 
@@ -431,7 +281,7 @@ So time to entrall the audience with the talent heart of a poet!!<p>
 
 		<!-- Contact-data section start -->
 
-<!--		<section id="contact-data" class="callout-light">
+		<section id="contact-data" class="callout-light">
 
 			<div class="container">
 
@@ -484,13 +334,13 @@ So time to entrall the audience with the talent heart of a poet!!<p>
 
 				</div><!-- .row -->
 
-<!--			</div><!-- .container -->
+			</div><!-- .container -->
 
-<!--		</section>
+		</section>
 
 		<!-- Contact-data section end -->
 
-<!--		<section id="contact" class="section">
+		<section id="contact" class="section">
 
 			<div class="container">
 
@@ -525,11 +375,11 @@ So time to entrall the audience with the talent heart of a poet!!<p>
 
 							<div class="ajax-response"></div><!-- Displays status when submitting form -->
 
-<!--						</form>
+						</form>
 
 					</div><!-- .col -->
 
-<!--					<div class="col-md-6 wow bounceInUp">
+					<div class="col-md-6 wow bounceInUp">
 
 						<h4>Additional info</h4>
 						<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
@@ -552,17 +402,17 @@ So time to entrall the audience with the talent heart of a poet!!<p>
 
 					</div><!-- .col -->
 
-<!--				</div><!-- .row -->
+				</div><!-- .row -->
 
-<!--			</div><!-- .container -->
+			</div><!-- .container -->
 
-<!--		</section>
+		</section>
 
 		<!-- Contact section end -->
 
 		<!-- Google Map section start-->
 
-<!--		<section id="map-section">
+		<section id="map-section">
 
 			<div id="map" class="wow flipInX"></div>
 
@@ -572,7 +422,7 @@ So time to entrall the audience with the talent heart of a poet!!<p>
 
 		<!-- Footer start -->
 
-<!--		<footer id="footer">
+		<footer id="footer">
 
 			<div class="container">
 
@@ -586,13 +436,13 @@ So time to entrall the audience with the talent heart of a poet!!<p>
 
 				</div><!-- .row -->
 
-<!--			</div><!-- .container -->
+			</div><!-- .container -->
 
-<!--		</footer>
+		</footer>
 
 		<!-- Footer end -->
 
-<!--	</div><!-- .wrapper -->
+	</div><!-- .wrapper -->
 
 	<!-- Javascript files -->
 	<!-- jQuery -->
@@ -625,5 +475,5 @@ So time to entrall the audience with the talent heart of a poet!!<p>
 
 </body>
 
-
+<!-- Mirrored from mycookroom.ru/mywork/Elegant/1.1/Site/Image/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Jan 2015 14:45:53 GMT -->
 </html>

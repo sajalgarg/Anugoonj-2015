@@ -99,7 +99,7 @@
 				<br>
 				<br>
 				<br>
-				<h1 class="centered">Music</h1>
+				<h1 class="centered">LITERARY EVENTS</h1>
 				<hr>
 				<br>
 				<br>
@@ -114,7 +114,7 @@
 						<figure>
 							<img class="img-responsive" src="assets/img/portfolio/fkd.jpg" alt="">
 							<figcaption>
-								<h5>CLASSICAL VOCAL SOLO (Hindustani & Carnatic)</h5>
+								<h5>QUIZ</h5>
 								<a data-toggle="modal" href="#myModal" class="btn btn-primary ">Rules</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
@@ -130,36 +130,25 @@
 						      <div class="modal-content">
 						        <div class="modal-header">
 						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						          <h4 class="modal-title">CLASSICAL VOCAL SOLO (Hindustani & Carnatic)</h4>
+						          <h4 class="modal-title">QUIZ</h4>
 						        </div>
 						        <div class="modal-body">
 						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
-								  <p>This is one of the most competitive events of the ANUGOONJ.
+								  <p>We are inviting all the passionate quizzers to test their up-to-date knowledge and answer some mind boggling questions.
 
-No matter how much the western music may progress, the purity of classical music always remains in our hearts.
+Questions from different sectors of our day to day lives would be asked to test the awareness of the students.
 
-This event requires proper command over the musical pitch, notes and the synchronisation with the rythm of the song.
+A quiz is a form of game or mind sport in which the player( as individual or in teams) attempts to answer questions correctly and qiuckly.
 
-Budding musicians from all colleges will try to fight for the pride.
-
-So be ready for this beautiful traditional music event at ANUGOONJ'15.</p>
+So put on your thinking caps and be a part of this challenge.</p>
 								  <h2>Rules</h2>
-						          <p>1.Classical Hindustani and Carnatic only.
-</p>
-
-										<p>2.Number of participants is 1.</p>
-
-										<p>3.Maximum number of accompanists is 2.</p>
-
-										<p>4.Sufficient thought and care must be exercised in the choice of raga and composition.
-</p>
-
-										<p>Judgment will be based on the qualities like swara, taal, selection of raga, composition .
-and general impression. </p>
-
-										<p>Max. Time Limit : 5+ 2 minutes </p>
-
-										<!--<p>7.Live music is not allowed.</p>
+						     <p>     1.3 member per team.
+</p><p>
+2. 2 teams will be selected per zone.
+</p><p>
+3. Teams will be finalized on the basis of a written elimination test.
+</p><p>
+4. The Finals will have Audio besides the regular Oral rounds.</p>
 						          <!--<p><b><a href="#">Visit Site</a></b></p>-->
 						        </div>
 						        <div class="modal-footer">
@@ -176,7 +165,7 @@ and general impression. </p>
 						<figure>
 							<img class="img-responsive" src="assets/img/portfolio/cg.jpg" alt="">
 							<figcaption>
-								<h5>LIGHT VOCAL SOLO(INDIAN)</h5>
+								<h5>DEBATE</h5>
 								<a data-toggle="modal" href="#myModal1" class="btn btn-primary">Rules</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
@@ -191,26 +180,26 @@ and general impression. </p>
 						      <div class="modal-content">
 						        <div class="modal-header">
 						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						          <h4 class="modal-title">LIGHT VOCAL SOLO(INDIAN)</h4>
+						          <h4 class="modal-title">DEBATE</h4>
 						        </div>
 						        <div class="modal-body">
 						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
-								  <p>One singer accompanied with one or two musicians will try to entrall you with the beauty of his/her voice.
+								  <p>It is an apt platform for the participants to pit their wits against each other.
 
-Light theme songs with melodious tunes would be played and the best event to relieve all your stress with some light music.</p>
+The podium is thy battleground of arguments.
+
+This would be a stage for an excellent war of words over a specific topic.
+
+So do not miss the most competitively fought literary event.</p>
 <h2>RULES</h2>
 
-<p>1.Individual participation.</p>
-
-<p>2.Two accompanists/instrumentalists are allowed.</p>
-
-<p>3.Only non-film songs / geet / ghazal / bhajan / shabad and abhangas can be presented.</p>
-
-<p>4.Time Limit : 4+2 minutes</p><!--
-
-<p>5.Props allowed.</p>
-
-<p>6.Folk dances not allowed.
+<p>1.Two member team; one for the motion and one against.
+</p><p>
+2.Topic for debate will be uploaded later.
+</p><p>
+3.2 teams will be selected per zone.
+</p><p>
+4.Maximum time limit : 3 + 1 minutes 
 </p>
 <p>7.The theme should have an original expression through music and movement
 	</p>						          <!--<p><b><a href="#">Visit Site</a></b></p>-->
@@ -231,7 +220,7 @@ Light theme songs with melodious tunes would be played and the best event to rel
 						<figure>
 							<img class="img-responsive" src="assets/img/portfolio/cd.jpg" alt="">
 							<figcaption>
-								<h5>WESTERN VOCAL SOLO</h5>
+								<h5>JUST A MINUTE</h5>
 								<a data-toggle="modal" href="#myModal2" class="btn btn-primary ">Rules</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
@@ -245,27 +234,24 @@ Light theme songs with melodious tunes would be played and the best event to rel
 						      <div class="modal-content">
 						        <div class="modal-header">
 						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						          <h4 class="modal-title">WESTERN VOCAL SOLO</h4>
+						          <h4 class="modal-title">JUST A MINUTE</h4>
 						        </div>
 						        <div class="modal-body">
 						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
-								  <p>Life is music, sometimes we lead and sometimes we follow.
+								  <p>The objective of this exciting game is for the panellists to talk for sixty seconds on agiven subject without hesitation and repitition.
 
-Watch students from different colleges prove their mettle and make the crowd go crazy to the western songs.
+This event tests the presence of mind of the participants and to think quickly over a given subject.
 
-You would not want to miss this event!!</p>
+So do join us for this small but exciting event at ANUGOONJ'15.
+RULES</p>
 <h2>RULES</h2>
 
 
-<p>1.Number of participants is one.</p>
+<p>1.Individual participation.</p><p>
 
-<p>2.Two accompanists/instrumentalists allowed.</p>
+2. participants will be selected per zone.</p><p>
 
-<p>3.Time limit : 4+2 minutes 
-</p>
-<p>4.Judgment will be based on the qualities like selection of song, tempo, rhythm, range and melody.<!--
-</p>
-<p>5.Restriction to one particular classical dance form.				          <!--<p><b><a href="#">Visit Site</a></b></p>-->
+3.Topic will the given on the spot.				          <!--<p><b><a href="#">Visit Site</a></b></p>-->
 	</p>					        </div>
 						        <div class="modal-footer">
 						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -282,7 +268,7 @@ You would not want to miss this event!!</p>
 						<figure>
 							<img class="img-responsive" src="assets/img/portfolio/nb.jpg" alt="">
 							<figcaption>
-								<h5>GROUP SONG(INDIAN)</h5>
+								<h5>CREATIVE WRITING</h5>
 								<a data-toggle="modal" href="#myModal3" class="btn btn-primary ">Rules</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
@@ -298,25 +284,24 @@ You would not want to miss this event!!</p>
 						      <div class="modal-content">
 						        <div class="modal-header">
 						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						          <h4 class="modal-title">GROUP SONG(INDIAN)</h4>
+						          <h4 class="modal-title">CREATIVE WRITING	</h4>
 						        </div>
 						        <div class="modal-body">
 						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
-							<p>	 This event will throw light on various forms of Indian music which will touch your soul.
+							<p>	 Let the ink put the mark on the paper.
 
-Get ready for some sizzling combination of Taals and Surs as the music groups of different colleges of IPU take you on a ride to soothe your senses.
+This event would best test the quality of young authors of IPU and their vocabulary writing and imagination skills.
 
-So get ready to be mesmerised by some awesome performances!!</p>
+This event is all about how well you transpire your ideas.
+
+Feel the essence of imagination in the world of literature and the creativity of the students.</p>
 <h2>RULES</h2>
 
-<p>1.Minimum number of participants in a team is 6, and maximum 10.
-</p>
-<p>2.Maximum of 3 accompanists allowed.
-</p>
-<p>3.Time Limit: 8 + 2 minutes (including stage set up).	</p>	<p>
-4.Judgment will be based on quality of singing, coordination and not on makeup, costume or actions of the team.</p>
-<p>
-5.No film songs allowed.  </p>      </div>
+<p>11.Topic will be given on the spot</p><p>
+
+2.Time limit : 1 hour</p><p>
+
+3.Individual participation.	</p>	        </div>
 						        <div class="modal-footer">
 						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 						        </div>
@@ -330,7 +315,7 @@ So get ready to be mesmerised by some awesome performances!!</p>
 						<figure>
 							<img class="img-responsive" src="assets/img/portfolio/fl.jpg" alt="">
 							<figcaption>
-								<h5>GROUP SONG(WESTERN)</h5>
+								<h5>POETRY RECITATION</h5>
 								<a data-toggle="modal" href="#myModal4" class="btn btn-primary ">Rules</a>
 							</figcaption><!-- /figcaption -->
 						</figure><!-- /figure -->
@@ -346,26 +331,26 @@ So get ready to be mesmerised by some awesome performances!!</p>
 						      <div class="modal-content">
 						        <div class="modal-header">
 						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-						          <h4 class="modal-title">GROUP SONG(WESTERN)</h4>
+						          <h4 class="modal-title">POETRY RECITATION</h4>
 						        </div>
 						        <div class="modal-body">
 						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
-				<p>				  This event will test the teamwork of participants in different genres of music who come together to compete in a cut throat competition right here at ANUGOONJ.
+				<p>				  Sweetest is the victory of a fine language.
 
-A team event which checks the basic essence of group music with some great performances.
+It encourages the battle of words between opponents while binding them together with their poetic love.
 
-So come to hear groups from different colleges and to see the best western group music band of IPU walk away with the gold.<p>
+You will be astonished by the variation in the pitch and loudness as the poets match the mood of the poem they recite.
+
+So time to entrall the audience with the talent heart of a poet!!<p>
 <h2>RULES</h2>
-<p>
-1.Maximum number of participants is 10 in a team.
-</p><p>
-2.Maximum of 3 instruments/ accompanists allowed
-</p><p>
-3.Time Limit: 8+2 minutes (including stage set up)
-</p><p>
-4.Judgment will be based on quality of singing only and not on makeup, costume or actions of the team.
-</p><p>
-5.The group songs should be in English only. 	</p>	        </div>
+
+<p>1.Individual participation.</p><p>
+
+2. 2 participants will be selected per zone.</p><p>
+
+3.Time Limit : 4+1 minutes.</p><p>
+
+4.Original works will be favoured.</p>			        </div>
 						        <div class="modal-footer">
 						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 						        </div>
@@ -373,7 +358,7 @@ So come to hear groups from different colleges and to see the best western group
 						    </div><!-- /.modal-dialog -->
 						  </div><!-- /.modal -->
 				<!-- PORTFOLIO IMAGE 6 -->
-		<!--		<div class="col-md-6 col-sm-6 col-xs-6">
+				<div class="col-md-6 col-sm-6 col-xs-6">
 			    	<div class="grid mask">
 						<figure>
 							<img class="img-responsive" src="assets/img/portfolio/sd.jpg" alt="">
@@ -381,13 +366,13 @@ So come to hear groups from different colleges and to see the best western group
 								<h5>Street dance</h5>
 								<a data-toggle="modal" href="#myModal5" class="btn btn-primary ">Rules</a>
 							</figcaption><!-- /figcaption -->
-<!--						</figure><!-- /figure -->
-<!--			    	</div><!-- /grid-mask -->
-<!--				</div><!-- /col -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
 				<!-- MODAL SHOW THE PORTFOLIO IMAGE. In this demo, all links point to this modal. You should create
 						      a modal for each of your projects. -->
 						      
-	<!--					  <div class="modal fade" id="myModal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+						  <div class="modal fade" id="myModal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 						    <div class="modal-dialog">
 						      <div class="modal-content">
 						        <div class="modal-header">
@@ -396,7 +381,7 @@ So come to hear groups from different colleges and to see the best western group
 						        </div>
 						        <div class="modal-body">
 						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
-	<!--			<p>				 Another modern day dance form which would consist of thrilling stunts.
+				<p>				 Another modern day dance form which would consist of thrilling stunts.
 
 A dance form known particulary for its exhillirating stunts and madness.
 
@@ -414,13 +399,13 @@ Get together now to showoff your skills for one of the most awaited event of ANU
 						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 						        </div>
 						      </div><!-- /.modal-content -->
-<!--						    </div><!-- /.modal-dialog -->
-<!--						  </div><!-- /.modal -->
-<!--			</div><!-- /row -->
-<!--			<br>
+						    </div><!-- /.modal-dialog -->
+						  </div><!-- /.modal -->
+			</div><!-- /row -->
+			<br>
 			<br>
 		<!-- /row -->
-<!--	</div><!-- /container -->
+	</div><!-- /container -->
 		<!-- Clients section start -->
 
 	<!--	<section id="clients" class="callout-dark">
