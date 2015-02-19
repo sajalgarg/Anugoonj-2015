@@ -1,0 +1,678 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<title>Anugoonj 2015</title>
+
+	<!-- CSS -->
+	<!-- Bootstrap core CSS -->
+	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+
+	<!-- Owl Carousel -->
+	<link href="assets/css/owl.theme.css" rel="stylesheet">
+	<link href="assets/css/owl.carousel.css" rel="stylesheet">
+
+	<!-- Magnific-popup lightbox -->
+	<link href="assets/css/magnific-popup.css" rel="stylesheet">
+
+	<!-- Simple text rotator -->
+	<link href="assets/css/simpletextrotator.css" rel="stylesheet">
+
+	<!-- Font Awesome CSS -->
+	<link href="assets/css/font-awesome.min.css" rel="stylesheet" media="screen">
+
+	<!-- Animate css -->
+	<link href="assets/css/animate.css" rel="stylesheet">
+
+	<!-- Custom styles CSS -->
+	<link href="assets/css/style.css" rel="stylesheet" media="screen">
+</head>
+<body>
+
+	<div class="wrapper">
+
+		<!-- Preloader -->
+
+		<!--<div id="preloader">
+			<div id="status">
+				<div class="status-mes"><h4>Elegant</h4></div>
+			</div>
+		</div>
+
+		<!-- Scroll-up -->
+
+		<!--<div class="scroll-up">
+			<a href="#intro"><i class="fa fa-angle-up"></i></a>
+		</div>-->
+
+		<!-- Navigation start -->
+
+		<nav class="navbar navbar-custom navbar-fixed-top" role="navigation" style="background-color:black">
+
+			<div class="container">
+
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#custom-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="#portfolio">Anugoonj 2015</a>
+				</div>
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="custom-navbar-collapse-1">
+					<ul class="nav navbar-nav navbar-right">
+						
+						<li><a href="#portfolio">Events</a></li>
+						<!--
+						<li><a href="#">Home</a></li>
+						<li><a href="#about-header">About</a></li>
+						<li><a href="#portfolio-header">Portfolio</a></li>
+						<li><a href="#team-header">Team</a></li>
+						<li><a href="components.html">Components</a></li>-->
+						<li><a href="#contact-header">Contact</a></li>
+						
+					</ul>
+					<h1>
+					</h1>
+				</div>
+
+			</div>
+
+		</nav>
+
+		<!-- Navigation end -->
+
+				<!-- ==== PORTFOLIO ==== -->
+		<div class="container" id="portfolio" name="portfolio">
+		<br>
+			<div class="row">
+				<br>
+				<br>
+				<br>
+				<h1 class="centered">Dance</h1>
+				<hr>
+				<br>
+				<br>
+			</div><!-- /row -->
+			</div>
+			<div class="container">
+			<div class="row">	
+			
+				<!-- PORTFOLIO IMAGE 1 -->
+				<div class="col-md-6 col-sm-6">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/fkd.jpg" alt="">
+							<figcaption>
+								<h5>Folk Dance</h5>
+								<a data-toggle="modal" href="#myModal" class="btn btn-primary ">Rules</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+				
+				
+						 <!-- MODAL SHOW THE PORTFOLIO IMAGE. In this demo, all links point to this modal. You should create
+						      a modal for each of your projects. -->
+						      
+						  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+						    <div class="modal-dialog" style="background-image:url(m1.jpg)">
+						      <div class="modal-content">
+						        <div class="modal-header">
+						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						          <h4 class="modal-title">Folk Dance</h4>
+						        </div>
+						        <div class="modal-body">
+						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
+								  <p>The most cultural and ethical dance of any group, place or a community.
+
+One of the most beautiful part of Anugoonj as it brings back the essence of the Indian culture.
+
+So come together to enjoy this cultural fiesta!!</p>
+								  <h2>Rules</h2>
+						          <p>1.Minimum of 8 participants, maximum 14 (including 2 accompanists)</p>
+
+										<p>2.Time limit : 6 + 2 minutes</p>
+
+										<p>3.Judgment will be based on rhythm, formation, synchronization, expressions, costumes, makeup, sets, and overall effects.</p>
+
+										<p>4.No bollywood music allowed.</p>
+
+										<p>5.Restriction to one particular folk dance form.</p>
+
+										<p>6.Props allowed.</p>
+
+										<p>7.Live music is not allowed.</p>
+						          <!--<p><b><a href="#">Visit Site</a></b></p>-->
+						        </div>
+						        <div class="modal-footer">
+						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						        </div>
+						      </div><!-- /.modal-content -->
+						    </div><!-- /.modal-dialog -->
+						  </div><!-- /.modal -->
+				
+				
+				<!-- PORTFOLIO IMAGE 2 -->
+				<div class="col-md-6 col-sm-6">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/cg.jpg" alt="">
+							<figcaption>
+								<h5>Choreography</h5>
+								<a data-toggle="modal" href="#myModal1" class="btn btn-primary">Rules</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+				</div>
+				 <!-- MODAL SHOW THE PORTFOLIO IMAGE. In this demo, all links point to this modal. You should create
+						      a modal for each of your projects. -->
+						      
+						  <div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+						    <div class="modal-dialog">
+						      <div class="modal-content">
+						        <div class="modal-header">
+						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						          <h4 class="modal-title">Choreography</h4>
+						        </div>
+						        <div class="modal-body">
+						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
+								  <p>Dance is a form of language and the person who best understands it is a choeographer.
+
+This event will test the imagination skills of the best dancers of IPU!!
+
+So brace yourselves to experience some finest and innovative moves from the students of different colleges of IPU!!</p>
+<h2>RULES</h2>
+
+<p>1.Minimum of 8 participants, maximum 14 (including 2 accompanists)</p>
+
+<p>2.Time Limit: 7 + 5 minutes (including stage set up time).</p>
+
+<p>3.Extra 1 minute will be given for explaining the theme.</p>
+
+<p>4.No lyrics allowed, only instrument. Some words may be allowed.</p>
+
+<p>5.Props allowed.</p>
+
+<p>6.Folk dances not allowed.
+</p>
+<p>7.The theme should have an original expression through music and movement
+	</p>						          <!--<p><b><a href="#">Visit Site</a></b></p>-->
+						        </div>
+						        <div class="modal-footer">
+						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						        </div>
+						      </div><!-- /.modal-content -->
+						    </div><!-- /.modal-dialog -->
+						  </div><!-- /.modal -->
+				
+				
+				
+				<div class="row">
+				<!-- PORTFOLIO IMAGE 3 -->
+				<div class="col-md-6 col-sm-6">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/cd.jpg" alt="">
+							<figcaption>
+								<h5>Classical Dance</h5>
+								<a data-toggle="modal" href="#myModal2" class="btn btn-primary ">Rules</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+				 <!-- MODAL SHOW THE PORTFOLIO IMAGE. In this demo, all links point to this modal. You should create
+						      a modal for each of your projects. -->
+						      
+						  <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+						    <div class="modal-dialog">
+						      <div class="modal-content">
+						        <div class="modal-header">
+						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						          <h4 class="modal-title">Classical Dance</h4>
+						        </div>
+						        <div class="modal-body">
+						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
+								  <p>Many dance forms have arrived and gone but none could replace the beauty and elegance of the classical dance.
+
+This dance form involves blending of the soul and music to give rise to different steps of utmost beauty.
+
+So come experience one of the most traditional dance forms of ancient India!!</p>
+<h2>RULES</h2>
+
+
+<p>1.One participant and Three accompanists allowed</p>
+
+<p>2.Time Limit: 6 + 2 minutes</p>
+
+<p>3.Judgment will be based on rhythm, formation, synchronization, expressions, costumes, make up, sets, and overall effects.
+</p>
+<p>4.No bollywood music allowed.
+</p>
+<p>5.Restriction to one particular classical dance form.				          <!--<p><b><a href="#">Visit Site</a></b></p>-->
+	</p>					        </div>
+						        <div class="modal-footer">
+						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						        </div>
+						      </div><!-- /.modal-content -->
+						    </div><!-- /.modal-dialog -->
+						  </div><!-- /.modal -->
+				
+
+				<!-- PORTFOLIO IMAGE 4 -->
+				
+				<div class="col-md-6 col-sm-6">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/nb.jpg" alt="">
+							<figcaption>
+								<h5>Nach Baliye</h5>
+								<a data-toggle="modal" href="#myModal3" class="btn btn-primary ">Rules</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+			</div>	
+			
+			<!-- MODAL SHOW THE PORTFOLIO IMAGE. In this demo, all links point to this modal. You should create
+						      a modal for each of your projects. -->
+						      
+						  <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+						    <div class="modal-dialog">
+						      <div class="modal-content">
+						        <div class="modal-header">
+						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						          <h4 class="modal-title">Nach Baliye</h4>
+						        </div>
+						        <div class="modal-body">
+						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
+							<p>	 A special couple dance event which brings about the best synchronization and chemistry between two dancers.
+
+So couples!! Be ready to dance to the beats holding the hands of your partners.</p>
+<h2>RULES</h2>
+
+<p>1. Two participants per team( 1 Boy/ 1 Girl)
+</p>
+<p>2. Props allowed.
+</p>
+<p>3. Time Limit: 4 + 2 minutes.	</p>	        </div>
+						        <div class="modal-footer">
+						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						        </div>
+						      </div><!-- /.modal-content -->
+						    </div><!-- /.modal-dialog -->
+						  </div><!-- /.modal -->
+				<!-- PORTFOLIO IMAGE 5 -->
+				<div class="row">
+				<div class="col-md-6 col-sm-6">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/fl.jpg" alt="">
+							<figcaption>
+								<h5>FootLoose</h5>
+								<a data-toggle="modal" href="#myModal4" class="btn btn-primary ">Rules</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+				
+				
+				<!-- MODAL SHOW THE PORTFOLIO IMAGE. In this demo, all links point to this modal. You should create
+						      a modal for each of your projects. -->
+						      
+						  <div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+						    <div class="modal-dialog">
+						      <div class="modal-content">
+						        <div class="modal-header">
+						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						          <h4 class="modal-title">FootLoose</h4>
+						        </div>
+						        <div class="modal-body">
+						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
+				<p>				  Bring out the wild self from you and dance to the bass and upbeat.
+
+This would include many modern day urban dance forms like hip hop, bee bouying etc.
+
+So hold your breath for the best dancers to entertain you to the fullest with their wild moves!!<p>
+<h2>RULES</h2>
+
+<p>1.Minimum of 8 participants, maximum 12.
+</p>
+<p>2.Time Limit: 6 + 2 minutes
+</p>
+<p>3.Props allowed.</p>			        </div>
+						        <div class="modal-footer">
+						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						        </div>
+						      </div><!-- /.modal-content -->
+						    </div><!-- /.modal-dialog -->
+						  </div><!-- /.modal -->
+				<!-- PORTFOLIO IMAGE 6 -->
+				<div class="col-md-6 col-sm-6">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/sd.jpg" alt="">
+							<figcaption>
+								<h5>Street dance</h5>
+								<a data-toggle="modal" href="#myModal5" class="btn btn-primary ">Rules</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+				<!-- MODAL SHOW THE PORTFOLIO IMAGE. In this demo, all links point to this modal. You should create
+						      a modal for each of your projects. -->
+						      
+						  <div class="modal fade" id="myModal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+						    <div class="modal-dialog">
+						      <div class="modal-content">
+						        <div class="modal-header">
+						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						          <h4 class="modal-title">Street Dance</h4>
+						        </div>
+						        <div class="modal-body">
+						          <!--<p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>-->
+				<p>				 Another modern day dance form which would consist of thrilling stunts.
+
+A dance form known particulary for its exhillirating stunts and madness.
+
+Get together now to showoff your skills for one of the most awaited event of ANUGOONJ-2015!!!</p>
+<h2>RULES</h2>
+<p>
+1.Minimum of 8 participants, maximum 14 (including 2 accompanists).
+</p><p>
+2.Time limit = 7+3 minutes
+</p><p>
+3.Only western music allowed. No bollywood song/music.
+</p><p>
+4.Props allowed.</p>			        </div>
+						        <div class="modal-footer">
+						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						        </div>
+						      </div><!-- /.modal-content -->
+						    </div><!-- /.modal-dialog -->
+						  </div><!-- /.modal -->
+			</div><!-- /row -->
+			<br>
+			<br>
+		<!-- /row -->
+	</div><!-- /container -->
+		<!-- Clients section start -->
+
+		<section id="clients" class="callout-dark">
+
+			<div class="container">
+
+				<div class="row">
+
+					<div class="col-md-12 wow bounceInUp">
+
+						<div id="owl-clients" class="owl-carousel">
+
+							<div class="owl-item">
+								<img src="assets/images/logo/client100-1.png" alt="">
+							</div>
+
+							<div class="owl-item">
+								<img src="assets/images/logo/client100-1.png" alt="">
+							</div>
+
+							<div class="owl-item">
+								<img src="assets/images/logo/client100-1.png" alt="">
+							</div>
+
+							<div class="owl-item">
+								<img src="assets/images/logo/client100-1.png" alt="">
+							</div>
+
+							<div class="owl-item">
+								<img src="assets/images/logo/client100-1.png" alt="">
+							</div>
+
+							<div class="owl-item">
+								<img src="assets/images/logo/client100-1.png" alt="">
+							</div>
+
+						</div>
+
+					</div><!-- .col -->
+
+				</div><!-- .row -->
+
+			</div><!-- .container -->
+
+		</section>
+
+		<!-- Clients section end -->
+
+		<!-- Contact section start -->
+
+		<section id="contact-header" class="section-header">
+
+			<div class="color-overlay">
+
+				<div class="container">
+
+					<div class="row">
+
+						<div class="col-sm-12 wow bounceInDown">
+							<h2>Contact Us</h2>
+							<p>Drop us a line or give us a ring. We love to hear you.</p>
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</section>
+
+		<!-- Contact-data section start -->
+
+		<section id="contact-data" class="callout-light">
+
+			<div class="container">
+
+				<div class="row">
+
+					<div class="col-sm-4 wow bounceInLeft">
+						<div class="service">
+							<div class="icon">
+								<i class="fa fa-envelope-o"></i>
+							</div>
+							<h4>Mails</h4>
+							<div class="text">
+								<address>
+									<a href="mailto:#">first.last@example.com</a><br/>
+									<a href="mailto:#">second.last@example.com</a>
+								</address>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-sm-4 wow bounceInUp">
+						<div class="service">
+							<div class="icon">
+								<i class="fa fa-phone"></i>
+							</div>
+							<h4>Phones</h4>
+							<div class="text">
+								<address>
+									<abbr title="Phone">P:</abbr> (123) 456-7890<br/>
+									<abbr title="Phone">P:</abbr> (321) 654-0987<br/>
+								</address>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-sm-4 wow bounceInRight">
+						<div class="service">
+							<div class="icon">
+								<i class="fa fa-map-marker"></i>
+							</div>
+							<h4>Address</h4>
+							<div class="text">
+								<address>
+									121 Somewhere Ave, Suite 123<br/>
+									San Francisco, CA 12345
+								</address>
+							</div>
+						</div>
+					</div>
+
+				</div><!-- .row -->
+
+			</div><!-- .container -->
+
+		</section>
+
+		<!-- Contact-data section end -->
+
+		<section id="contact" class="section">
+
+			<div class="container">
+
+				<div class="row">
+
+					<div class="col-md-6 wow bounceInLeft">
+
+						<h4>Get in touch</h4>
+						<form id="contact-form" method="post" role="form">
+
+							<div class="ajax-hidden">
+
+								<div class="form-group">
+									<label class="sr-only" for="c_name">Name</label>
+									<input type="text" id="c_name" class="form-control" name="c_name" placeholder="Name">
+								</div>
+
+								<div class="form-group">
+									<label class="sr-only" for="c_email">Email address</label>
+									<input type="email" id="c_email" class="form-control" name="c_email" placeholder="E-mail">
+								</div>
+
+								<div class="form-group">
+									<textarea class="form-control" id="c_message" name="c_message" rows="7" placeholder="Your message"></textarea>
+								</div>
+
+								<button type="submit" class="btn btn-custom-1-inverse">
+									<i class="fa fa-bullhorn icon-before"></i> Send it
+								</button>
+
+							</div>
+
+							<div class="ajax-response"></div><!-- Displays status when submitting form -->
+
+						</form>
+
+					</div><!-- .col -->
+
+					<div class="col-md-6 wow bounceInUp">
+
+						<h4>Additional info</h4>
+						<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
+						<hr/>
+
+						<h4>Business Hours</h4>
+						<ul class="list-unstyled">
+							<li>Mo - Fr: 8am to 6pm</li>
+							<li>Sa, Su: 10am to 2pm</li>
+						</ul>
+						<hr/>
+
+						<h4>Follow us</h4>
+						<ul class="icons-widget">
+							<li><a href="#"><i class="fa fa-facebook fa-fw"></i></a></li>
+							<li><a href="#"><i class="fa fa-github-alt"></i></a></li>
+							<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+							<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+						</ul>
+
+					</div><!-- .col -->
+
+				</div><!-- .row -->
+
+			</div><!-- .container -->
+
+		</section>
+
+		<!-- Contact section end -->
+
+		<!-- Google Map section start-->
+
+		<section id="map-section">
+
+			<div id="map" class="wow flipInX"></div>
+
+		</section>
+
+		<!-- Google Map section end -->
+
+		<!-- Footer start -->
+
+		<footer id="footer">
+
+			<div class="container">
+
+				<div class="row">
+
+					<div class="col-md-12">
+						<p class="copy">
+							© 2014 Elegant, All Rights Reserved.
+						</p>
+					</div>
+
+				</div><!-- .row -->
+
+			</div><!-- .container -->
+
+		</footer>
+
+		<!-- Footer end -->
+
+	</div><!-- .wrapper -->
+
+	<!-- Javascript files -->
+	<!-- jQuery -->
+	<script src="assets/js/jquery-1.11.0.min.js"></script>
+	<!-- Bootstrap JS -->
+	<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+	<!-- Background slider -->
+	<script src="assets/js/jquery.backstretch.min.js"></script>
+	<!-- OwlCarousel -->
+	<script src="assets/js/owl.carousel.min.js"></script>
+	<!-- Knob -->
+	<script src="assets/js/jquery.knob.min.js"></script>
+	<!-- Modal for portfolio -->
+	<script src="assets/js/jquery.magnific-popup.min.js"></script>
+	<!-- Text rotator -->
+	<script src="assets/js/jquery.simple-text-rotator.min.js"></script>
+	<!-- Waypoints -->
+	<script src="assets/js/jquery.waypoints.js"></script>
+	<!-- WOW - Reveal Animations When You Scroll -->
+	<script src="assets/js/wow.min.js"></script>
+	<!-- Smooth scroll -->
+	<script src="assets/js/smoothscroll.js"></script>
+	<!-- Resp. video -->
+	<script src="assets/js/jquery.fitvids.js"></script>
+	<!-- Google Maps -->
+	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	<script src="assets/js/gmaps.js"></script>
+	<!-- Custom scripts -->
+	<script src="assets/js/custom.js"></script>
+
+</body>
+
+<!-- Mirrored from mycookroom.ru/mywork/Elegant/1.1/Site/Image/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 29 Jan 2015 14:45:53 GMT -->
+</html>
